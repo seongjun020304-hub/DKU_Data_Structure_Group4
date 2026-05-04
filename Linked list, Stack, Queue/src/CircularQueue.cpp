@@ -138,12 +138,5 @@ void Problem3() {
     dequeue(q);
 
     std::cout << "\nAll tests completed.\n";
-}
-
-// 기존 int main() 이었던 부분을 이름만 바꿈
-void runProblem3() {
-    std::cout << "============================================================\n";
-    std::cout << "  Problem 3: Circular Queue (capacity = 20 characters)\n";
-    // ... (기존 main 안에 있던 테스트 코드 그대로 복사) ...
-    std::cout << "\nAll tests completed.\n";
+    return 0;
 }
