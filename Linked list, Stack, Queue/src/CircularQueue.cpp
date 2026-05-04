@@ -73,7 +73,7 @@ void printQueue(const CircularQueue& q) {
     std::cout << "]\n";
 }
 
-// ──Problem3──────────────────────────────────────────────────────────────────────
+// ── Problem3 ─────────────────────────────────────────────────────────────────────
 void Problem3() {
     std::cout << "============================================================\n";
     std::cout << "  Problem 3: Circular Queue (capacity = 20 characters)\n";
