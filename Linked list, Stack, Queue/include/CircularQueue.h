@@ -22,6 +22,6 @@ char peek(const CircularQueue& q);
 void printQueue(const CircularQueue& q);
 
 // 기존 main() 함수를 대체할 실행 함수
-void runProblem3();
+void Problem3();
 
 #endif
