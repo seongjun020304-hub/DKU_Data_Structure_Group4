@@ -11,7 +11,7 @@ struct CircularQueue {
     int  capacity;
 };
 
-// 함수 선언(껍데기)만 작성
+// 함수 선언 작성
 void initQueue(CircularQueue& q);
 bool isEmpty(const CircularQueue& q);
 bool isFull(const CircularQueue& q);
@@ -21,7 +21,7 @@ char dequeue(CircularQueue& q);
 char peek(const CircularQueue& q);
 void printQueue(const CircularQueue& q);
 
-// 기존 main() 함수를 대체할 실행 함수
+// 실행 함수
 void Problem3();
 
 #endif
