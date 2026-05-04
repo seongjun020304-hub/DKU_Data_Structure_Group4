@@ -73,7 +73,7 @@ void printQueue(const CircularQueue& q) {
     std::cout << "]\n";
 }
 
-// ── 기존 main 함수를 Problem3로 이름만 변경 ──────────────────────────────────
+// ──Problem3──────────────────────────────────────────────────────────────────────
 void Problem3() {
     std::cout << "============================================================\n";
     std::cout << "  Problem 3: Circular Queue (capacity = 20 characters)\n";
