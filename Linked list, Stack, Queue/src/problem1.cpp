@@ -117,7 +117,7 @@ void findMinimum(double xMin, double xMax) {
               << xOpt << "  f(x) = " << f(xOpt) << "\n\n";
 }
 
-
+// ── Problem1 ─────────────────────────────────────────────────────────────────────
 void Problem1() {
     std::cout << "============================================================\n";
     std::cout << "  Problem 1: Polynomial f(x) = 6.7x^4 + 3.2x^3 - x^2 + x - 2\n";
