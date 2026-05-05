@@ -138,5 +138,4 @@ void Problem3() {
     dequeue(q);
 
     std::cout << "\nAll tests completed.\n";
-    return 0;
 }
