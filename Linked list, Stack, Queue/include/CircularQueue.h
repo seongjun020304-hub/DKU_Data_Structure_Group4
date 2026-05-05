@@ -1,5 +1,5 @@
-#ifndef PROB1_H
-#define PROB1_H
+#ifndef PROB3_H
+#define PROB3_H
 
 // 상수 및 구조체 선언
 const int MAX_SIZE = 21;
