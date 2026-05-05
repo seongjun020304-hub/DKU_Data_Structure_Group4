@@ -1,5 +1,5 @@
-#ifndef CIRCULAR_QUEUE_H
-#define CIRCULAR_QUEUE_H
+#ifndef CIRCULAR_QUEUE_h
+#define CIRCULAR_QUEUE_h
 
 // 상수 및 구조체 선언
 const int MAX_SIZE = 21;
