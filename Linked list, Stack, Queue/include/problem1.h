@@ -1,7 +1,7 @@
 #ifndef PROB1_H
 #define PROB1_H
 
-// 상수 및 변수 선언
+// 변수 선언
 double f(double x);
 
 // 함수 선언 작성
